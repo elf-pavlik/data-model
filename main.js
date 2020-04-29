@@ -1,1 +1,1 @@
-export { DataFactory } from './lib/data-factory'
+export * from './lib/data-factory'
